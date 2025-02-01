@@ -1,0 +1,53 @@
+Hello This is ihthisham
+
+
+Pages
+
+Pages That Start from Number 1 are Home Pages
+
+Pages That Start from Number 2 are Login Related Pages
+
+Pages That Start from Number 3 are for Patients
+
+Pages That Start from Number 4 are for Doctors
+
+Pages That Start from Number 5 are for Receptionists
+
+Pages That Start from Number 6 are Appointment Related Pages
+
+
+Database
+
+I have Created 6 Tables for my database
+
+
+1. appointment   - This Table has all the appointments made by User. This Table Is Displayed in "view all appointments" page
+
+2. p_appointment - This Table Only Stores The Appointments Made by User through "add appointment" page
+
+3. login	 - This Table Holds the credentials For Each Login
+
+4. patients	 - This Table Has All The Patients Details
+
+5. doctors	 - This Table Has All The Doctors Details
+
+6. receptionists - This Table Has All The Receptionists Details
+
+
+
+These are the passwords For Each Login
+
+
+	Admin  		- Username- admin		Password- admin123
+
+	Doctor 		- Username- doc			Password- doc123
+
+	Receptionist 	- Username- rec		 	Password- rec123
+
+
+***NOTE***
+
+Please Do Not Open Any (Edit or Delete) Files because it will always show an Error Even Though Those Functions Work Properly
+
+
+Also Once you open "view all appointments" page you will only be able to see Appointments that already exist within the database, You will Have to open "add appointment" page and add your own details, once you have finished adding your appointment throught "add appointment" page revisit "view all appointments" page and you should be able to see the appointment you just made
